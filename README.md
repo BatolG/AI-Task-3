@@ -184,3 +184,5 @@ This will detect **blue** color and publish the x,y coordinates to /direction to
 This will subscribe to /direction topic and execute motion by using Moveit move group
 
 **We can’t visualize the pick and place actions in gazebo**
+
+## Testing for the arm 
