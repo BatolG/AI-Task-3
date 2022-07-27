@@ -185,8 +185,9 @@ This will subscribe to /direction topic and execute motion by using Moveit move 
 
 **We can’t visualize the pick and place actions in gazebo**
 
-## Testing for the arm 
+## Arm Test 
 Moving the arm elbow
+
 ![](https://github.com/BatolG/AI-Task-3/blob/main/task-gif.gif)
 ![](https://github.com/BatolG/AI-Task-3/blob/main/task-pic1.jpg)
 ![](https://github.com/BatolG/AI-Task-3/blob/main/task-pic2.jpg)
